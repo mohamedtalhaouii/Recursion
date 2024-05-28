@@ -13,9 +13,9 @@
 
 <h2>Exemple de Récursivité</h2>
 
-Un exemple classique de récursivité est le calcul de la factorielle d'un nombre \( n \) (noté \( n! \)), qui est défini comme :
-\[ n! = n \times (n-1)! \]
-Avec la condition que \( 0! = 1 \).
+Un exemple classique de récursivité est le calcul de la factorielle d'un nombre $`n`$ ( noté $`n!`$ ), qui est défini comme :
+$` n! = n \times (n-1)!`$
+Avec la condition que $` 0! = 1`$ .
 
 ```python
 def factorielle(n):
