@@ -2,7 +2,8 @@
 
 **La récursivité** est une technique de programmation où une fonction s'appelle elle-même pour résoudre un problème. C'est une approche puissante utilisée pour résoudre des problèmes qui peuvent être divisés en sous-problèmes plus petits du même type. Voici un aperçu des concepts clés liés à la récursivité :
 
-![1_2KksCoUg9JY6ngOLSFm-Lg](https://github.com/mohamedtalhaouii/Recursion/assets/144726758/ef5d995a-e971-4453-9c47-d53b3bb8600d)
+![Recursion](https://github.com/mohamedtalhaouii/Recursion/assets/144726758/6e6ee037-86b2-4f85-9d17-5bfde8aea959)
+
 
 <h2>Concepts de Base</h2>
 
